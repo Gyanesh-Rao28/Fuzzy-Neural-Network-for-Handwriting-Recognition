@@ -1,0 +1,9 @@
+numpy
+tensorflow
+scipy
+pillow
+pandas
+scikit-learn
+scikit-fuzzy
+torch
+torchvision
